@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'pages_a_chat_app_20377.settings')
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "pages_a_chat_app_20377.settings")
 
 application = get_wsgi_application()
